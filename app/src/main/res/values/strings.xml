@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="reset_board">Reset Board</string>
+    <string name="btn22"></string>
+    <string name="btn21"></string>
+    <string name="btn20"></string>
+    <string name="btn12"></string>
+    <string name="btn11"></string>
+    <string name="btn10"></string>
+    <string name="btn02"></string>
+    <string name="btn01"></string>
+    <string name="btn00"></string>
+    <string name="Title">Score</string>
+    <string name="player_1">Player 1 : 0</string>
+    <string name="player_2">Player 2 : 0</string>
+</resources>
